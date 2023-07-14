@@ -4,7 +4,7 @@
 
 Hi,
 
-I am Muhammad Ahsan, a MERN stack developer with more than 2 years of experience in the world of web development. I have extensive skills in developing E-Commerce platforms, Management Systems and Blogs along with a variety of other web-based applications.
+I am Muhammad Hamza, a MERN stack developer with more than 2 years of experience in the world of web development. I have extensive skills in developing E-Commerce platforms, Management Systems and Blogs along with a variety of other web-based applications.
 All my work is done using the best coding standards and conventions, making my applications scalable and understandable.
 
 <br/>
