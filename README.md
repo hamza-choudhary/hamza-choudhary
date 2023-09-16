@@ -16,10 +16,9 @@
 
 ### Glad to see you here!
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I'm a passionate full-stack developer with a focus on both frontend and backend technologies. My journey in the world of programming began as a personal fascination and evolved into a full-time profession. I find immense joy in writing code, creating elegant solutions, and solving complex problems.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs
-
+My tech stack includes a mix of tools like React, Node.js, Express, and databases like MongoDB and MySQL. Beyond coding, I'm a lifelong learner, always exploring new languages, frameworks, and concepts to stay up-to-date with the ever-evolving tech landscape.
 <br/>
 
 ## Rapidfire
