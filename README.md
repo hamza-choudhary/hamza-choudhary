@@ -1,5 +1,5 @@
-# 💫 About Me:
-### About Me<br><br>I'm a Software Engineer passionate about building efficient and scalable web and mobile applications. I specialize in JavaScript, React.js, React Native, and Node.js, with experience optimizing performance, enhancing UI/UX, and solving real-world problems. From real-time wall color visualization to full-scale technician workflow apps, I bring ideas to production with clean architecture and modern tech. <br>
+#  Hey, 👋 Its Muhammad Hamza
+I'm a Software Engineer passionate about building efficient and scalable web and mobile applications. I specialize in JavaScript, React.js, React Native, and Node.js, with experience optimizing performance, enhancing UI/UX, and solving real-world problems. From Lead generation web application to Technician workflow mangement Mobile applicaions, I bring ideas to production with clean architecture and modern tech. <br>
 
 
 ## 🌐 Socials:
