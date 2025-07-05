@@ -2,10 +2,10 @@
 
 # 👋 Hello, I'm Muhammad Hamza
 
-## 🚀 Software Engineer | Full-Stack Developer | React Native Specialist
+## Software Engineer | Full-Stack Developer | React Native Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+Expert;Backend+Optimization+Specialist;AI+Integration+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+Expert;Backend+Developer;Mobile+App+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,28 +33,28 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Software Engineer** at **Amrood Labs** with expertise in full-stack development and mobile application development. I specialize in building scalable web applications, optimizing performance, and creating seamless user experiences across web and mobile platforms.
+Software Engineer at **Amrood Labs** with experience in full-stack development and mobile applications. I work on building web applications, optimizing performance, and developing mobile apps using modern technologies.
 
-### 🔥 What I Do
-- 🏗️ **Full-Stack Development**: Building robust web applications with modern technologies
-- 📱 **Mobile Development**: Creating cross-platform mobile apps with React Native
+### What I Do
+- 🏗️ **Full-Stack Development**: Web applications with React, Node.js, and databases
+- 📱 **Mobile Development**: Cross-platform apps with React Native
 - ⚡ **Performance Optimization**: Improving application speed and efficiency
-- 🤖 **AI Integration**: Implementing intelligent features and automation
-- 🔧 **System Architecture**: Designing scalable and maintainable solutions
+- 🤖 **AI Integration**: Adding intelligent features to applications
+- 🔧 **Backend Development**: APIs, databases, and server-side logic
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Professional Impact
 
 <div align="center">
 
-| 🎯 Achievement | 📊 Impact |
+| Achievement | Result |
 |:---|:---|
-| **Performance Optimization** | Achieved 60% faster page loading times |
-| **Code Efficiency** | Reduced re-rendering cycles by 73% |
-| **Security Enhancement** | Secured 5000+ user accounts |
-| **Mobile Apps Published** | 5+ React Native apps on iOS & Play Store |
-| **AI Model Accuracy** | 98% accuracy in deep learning projects |
+| **Page Loading Optimization** | 60% faster loading times |
+| **Code Efficiency** | 73% reduction in re-rendering cycles |
+| **Security Enhancement** | Protected 5000+ user accounts |
+| **Mobile Apps** | 5+ published apps on iOS & Play Store |
+| **Database Processing** | Handled 40,000+ records efficiently |
 
 </div>
 
@@ -64,105 +64,100 @@ I'm a passionate **Software Engineer** at **Amrood Labs** with expertise in full
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🤖 AI & Machine Learning
+### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-</p>
-
-### 🔧 Tools & Technologies
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
+
+### 🔄 **AI Document Processing System**
+*Next.js • AI Integration • Full-Stack*
+- Built complete pipeline for extracting information from documents using AI
+- Created organized database system for processed data
+- Developed web application with frontend and backend components
+
+### 📧 **Lead Generation Platform**
+*React • Node.js • Performance Optimization*
+- Optimized frontend performance achieving 60% faster page loading
+- Reduced API calls and improved caching with Tanstack Query
+- Enhanced campaign management with logging and tracking features
+- Implemented email automation and webhook integrations
+
+### 🚗 **Workshop Management Mobile App**
+*React Native • Task Management*
+- Developed mobile application for technician workflow management
+- Built features for task tracking, attendance, and earnings monitoring
+- Implemented task timers, photo uploads, and collaboration tools
+- Added caching for better performance and user experience
 
 ### 🎨 **Paint Visualization Mobile App**
-*React Native • Image Processing • Real-time Features*
-- Developed real-time wall color visualization allowing users to apply catalog colors to uploaded images
-- Implemented AI-powered color matching that analyzes images and suggests nearest paint colors
-- Integrated social media feeds for enhanced user engagement
-
-### 🔧 **Workshop Management System**
-*React Native • Task Management • Real-time Tracking*
-- Built comprehensive mobile application for technician workflow management
-- Implemented task timers, photo uploads, and collaboration features
-- Integrated caching mechanisms for optimal performance
-
-### 🤖 **AI Document Processing Pipeline**
-*Next.js • AI Integration • Full-Stack Development*
-- Created complete pipeline for AI-powered document information extraction
-- Built organized database system for processed data
-- Developed full-stack web application with modern frontend and robust backend
-
-### 👤 **Person Re-Identification System**
-*Deep Learning • Real-time Processing • Web Development*
-- Achieved 98% model accuracy using PyTorch and computer vision
-- Implemented real-time processing with 1-second average frame processing time
-- Built comprehensive web interface with role-based authentication
+*React Native • Image Processing*
+- Created real-time color visualization for wall painting
+- Implemented color matching feature using image analysis
+- Integrated social media feeds within the application
+- Published on both iOS App Store and Google Play Store
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-choudhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-choudhary&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-choudhary&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=d1d5da"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-choudhary&layout=compact&langs_count=8&theme=default&border_color=d1d5da"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-choudhary&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-choudhary&theme=default&border=d1d5da" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-choudhary&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-choudhary&theme=github&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true&hide_border=false" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamza-choudhary&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=hamza-choudhary&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -170,25 +165,21 @@ I'm a passionate **Software Engineer** at **Amrood Labs** with expertise in full
 
 ## 💡 Current Focus
 
-- 🔍 **Performance Optimization**: Continuously improving application efficiency and user experience
-- 📱 **Mobile Innovation**: Exploring cutting-edge React Native features and cross-platform solutions  
-- 🤖 **AI Integration**: Implementing intelligent automation and machine learning solutions
-- 🏗️ **System Architecture**: Designing scalable and maintainable software architectures
+- 🔍 **Performance Optimization**: Improving application speed and user experience
+- 📱 **Mobile Development**: Building cross-platform applications with React Native  
+- 🤖 **AI Integration**: Adding intelligent features to web and mobile applications
+- 🏗️ **System Design**: Creating scalable and maintainable software solutions
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+### 📫 Get In Touch
 
-*I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about software development.*
-
-**📧 Email**: hamzach.work@gmail.com
+**Email**: hamzach.work@gmail.com
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=hamza-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+<img src="https://komarev.com/ghpvc/?username=hamza-choudhary&label=Profile%20views&color=0969da&style=flat" alt="Profile Views" />
 
 </div>
